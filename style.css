@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-family:serif;
+    margin: 10px;
+}
+.card{
+    width: 355px;
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0;
+    box-shadow: 0 2px 6px 0;
+    transition: 0.3s;
+    padding: 0;
+}
+.card:hover{
+     box-shadow: 0 6px 30px 0;
+}
+.result{
+    width: 345px;
+    height: 100px;
+    padding:5px;
+    text-align: right;
+    font-size: 30px;
+    font-weight: bolder;
+    border: none;
+    margin-bottom: 2px;
+}
+.btn{
+     width: 25%;
+    height: 40px;
+    font-weight: 900;
+    
+}
+.big-zero{
+    width: 50%;
+}
+.equal{
+    width: 100%;
+    font-size: 20px;
+        
+}
+.btn{
+    background: #404040;
+    color: aliceblue;
+}
+.up-btn{
+    background: #006633;
+    color: aliceblue
+}
+.sign-btn{
+    background: #00FF80;
+    color: black;
+    font-size: 18px
+}
+.equal{
+    background: #66FFFF
+}
+.btn:hover{
+    background: tomato;
+}
