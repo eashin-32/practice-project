@@ -58,7 +58,8 @@ h1{
     font-size: 18px
 }
 .equal{
-    background: #66FFFF
+    background: #66FFFF;
+    color: black;
 }
 .btn:hover{
     background: tomato;
